@@ -27,3 +27,4 @@ def testfn2(n):
 #execute function
 #wrapper(testfn,n)
 testfn2(n)
+testfn(n)
